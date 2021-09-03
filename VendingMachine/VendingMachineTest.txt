@@ -1,0 +1,7 @@
+Twix::1.00::5
+Smarties::0.40::8
+Coke::2.40::9
+Twirl::1.25::8
+Irn Bru::1.50::17
+Mars Bar::1.40::20
+Doritos::1.30::0
