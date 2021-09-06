@@ -20,6 +20,3 @@ The program follows the Model View Controller (MVC) design pattern and uses Spri
 * **vendingmachine.service**: Implements business logic of the application. In this application, the service layer is responsible for checking if the user has enough money, retrieving instock items and handling change. The service layer also throws application specific exceptions. 
 * **vendingmachin.controller**: The controller is respnsible for orchastrating the flow of the program. The controller uses the view and the service layer to achieve the applications key goals. 
 * **vendingmachine**: This holds the App class which is the main class for the program. This class is reponsible for running the program by calling the controller. I have implemented spring dependency injection, the configuration of our controller is read to the app class from the applicationproperties.xml file.
-
-<h2> Files </h2> 
-
